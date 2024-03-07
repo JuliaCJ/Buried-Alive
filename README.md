@@ -1,4 +1,4 @@
-# Buried-Alive
+# Buried Alive
 
 Welcome to "Buried Alive"!
 
