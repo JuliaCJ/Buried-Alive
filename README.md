@@ -8,7 +8,7 @@ Interact with other characters and explore the world around you to discover the 
 
 Think about each decision carefully, as it could affect the story. 
 
-Click [here](https://twinery.org/2/#/stories/e003fc38-49b6-48f8-9829-56454aaf0d33/play) to play "Buried Alive"!
+Click [here](https://juliacj.itch.io/buried-alive) to play "Buried Alive"!
 
 This game was built using [Twine](https://twinery.org/). 
 
