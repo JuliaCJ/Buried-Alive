@@ -2,7 +2,7 @@
 
 Welcome to "Buried Alive"!
 
-In this narrative game, you'll play as an unknown individual trapped ungerground with nothing, not even your memories.
+In this short narrative game, you'll play as an unknown individual trapped ungerground with nothing, not even your memories.
 
 Interact with other characters and explore the world around you to discover the truth about who you are.
 
